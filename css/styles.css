@@ -224,7 +224,7 @@ header > .containe{
     height: auto;
     background-color: #fff;
     margin-bottom: 3%;
-    padding: 2%;
+    padding: 2% 2% 1% 2%;
     
 }
 #services .badge{
@@ -237,6 +237,13 @@ header > .containe{
     background-color: #ff689b;
     border-radius: 50%;
     margin: 0 auto;
+    opacity: .8;
+}
+.description{
+    font-size: .8rem;
+    line-height:1.4rem; 
+    color: #444;
+    font-family: "Open Sans", sans-serif;
 }
 /* ---------------------- Services Section End ---------------------- */
 
